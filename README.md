@@ -1,6 +1,8 @@
 # LinkedIn_ThreatIntelligenceCompanies
 Explore the latest updates and insights from key players in the cybersecurity and threat intelligence landscape. Follow these LinkedIn pages to stay informed about emerging threats, cybersecurity strategies, industry trends, and more. Whether you're interested in the latest research from Microsoft Threat Intelligence, Group-IB's cybersecurity solutions, or the threat assessments by Cisco Talos Intelligence Group, these pages provide valuable resources for cybersecurity professionals and enthusiasts alike. Click on the links below to connect with industry leaders and stay ahead in the world of cybersecurity.
 
+Made by [Threat Intelligence Lab](https://threatintelligencelab.com)
+
 - [Microsoft Threat Intelligence Page](https://www.linkedin.com/showcase/microsoft-threat-intelligence/posts/)
 - [Threat Intelligence Lab](https://www.linkedin.com/company/threat-intelligence-lab/)
 - [Group-IB Page](https://www.linkedin.com/company/group-ib/)
